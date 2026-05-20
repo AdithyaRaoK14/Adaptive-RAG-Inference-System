@@ -1,3 +1,6 @@
+[![Tests](https://github.com/AdithyaRaoK14/Adaptive-RAG-Inference-System/actions/workflows/tests.yml/badge.svg)](https://github.com/AdithyaRaoK14/Adaptive-RAG-Inference-System/actions/workflows/tests.yml)
+
+
 # Adaptive RAG Inference System
 
 A Retrieval-Augmented Generation pipeline that optimises itself at inference time — no training required. Built with FAISS, BM25, sentence-transformers, and local Ollama LLMs.
